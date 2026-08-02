@@ -1,18 +1,11 @@
 # Digital Logic & Circuits
 
-Coursework from SER232 — Computer Organization and Assembly. Circuit designs built in [Logisim](http://www.cburch.com/logisim/), covering combinational and sequential digital logic.
+Circuit designs from SER232, built in [Logisim](http://www.cburch.com/logisim/).
 
 ## Assignments
 
-| File | Assignment |
-|------|-----------|
-| `sheridan_a1.circ` | Assignment 1 |
-| `sheridan_a2.circ` | Assignment 2 |
-| `sheridan_a3.circ` | Assignment 3 |
-| `sheridan_a5.circ` | Assignment 5 |
-| `sheridan_a6.circ` | Assignment 6 |
-| `sheridan_a7.circ` | Assignment 7 |
-| `sheridan_ec.circ` | Extra credit |
+- `sheridan_a1.circ`, `a2`, `a3`, `a5`, `a6`, `a7` — assignments 1-7 (no a4 here)
+- `sheridan_ec.circ` — extra credit
 
 ## How to Open
 
